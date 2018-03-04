@@ -1,3 +1,2 @@
 BOTAFOGO
-
-curso-git2
+curso-git agora em outro projeto
