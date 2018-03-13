@@ -1,2 +1,7 @@
 BOTAFOGO
+<<<<<<< HEAD
 curso-git agora em outro projeto
+=======
+
+curso-gi2 alterando
+>>>>>>> cbbe1e5c38b49ff08179672035a779a150996a21
