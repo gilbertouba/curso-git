@@ -1,6 +1,6 @@
 branch dev
 =============
-master-----@@
+master-----@+
 =============
 alteracao 03
 alteracao 04
